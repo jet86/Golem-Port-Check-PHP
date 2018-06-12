@@ -17,7 +17,7 @@
 
 <html>
     <head>
-        <title></title>
+        <title>Golem Port Check</title>
     </head>
     <body style="font-family: Sans-Serif;">
         <h1>Golem Port Check</h1>

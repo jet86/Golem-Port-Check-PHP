@@ -19,7 +19,7 @@
     <head>
         <title>Golem Port Check</title>
     </head>
-    <body style="font-family: Sans-Serif;">
+    <body style="font-family: Sans-Serif; padding: 40px;">
         <h1>Golem Port Check</h1>
         This page will check your network to see if ports used by <a href='https://golem.network/' target='_blank'>Golem</a> are open and responding.<br><br>
         It will continue to check for successive open ports until it times out. If you are only running Golem on 1 computer on your network, node number 1 should have all 3 ports open, and node number 2 should have all 3 ports time out (1 node equals 1 computer running Golem).<br><br>

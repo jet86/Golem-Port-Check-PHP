@@ -22,6 +22,7 @@
     <body style="font-family: Sans-Serif;">
         <h1>Golem Port Check</h1>
         This page will check your network to see if ports used by <a href='https://golem.network/' target='_blank'>Golem</a> are open and responding.<br><br>
+        It will continue to check for successive open ports until it times out. If you are only running Golem on 1 computer on your network, node number 1 should have all 3 ports open, and node number 2 should have all 3 ports time out (1 node equals 1 computer running Golem).<br><br>
         <b>Note:</b> This will only succeed if you have Golem running while you run this test.<br>
         <br>
         <hr>
@@ -83,6 +84,8 @@
         <br>
         <a href='https://github.com/jet86/Golem-Port-Check-PHP'>View the source code</a><br>
         <br>
-        <a href='../'>Back to golem.timjones.id.au</a>
+        <a href='../'>Back to golem.timjones.id.au</a><br>
+        <br>
+        <a href='https://golem.network/documentation/09-common-issues-troubleshooting/port-forwarding-connection-errors/'>Official Port Forwarding Documentation</a>
     </body>
 </html>

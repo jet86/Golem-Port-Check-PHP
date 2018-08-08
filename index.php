@@ -165,5 +165,9 @@
         <a href='../'>Back to golem.timjones.id.au</a><br>
         <br>
         <a href='https://golem.network/documentation/09-common-issues-troubleshooting/port-forwarding-connection-errors/'>Official Port Forwarding Documentation</a>
+        <br>
+        <br>
+        <p>If you wish to donate to me, you can send ETH or GNT to the following address:</p>
+        <p>0xA51699378fc02c81302aC514D82e9935B716FC7E</p>
     </body>
 </html>
